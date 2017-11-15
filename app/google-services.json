@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "368730474149",
+    "firebase_url": "https://fir-facebookexample.firebaseio.com",
+    "project_id": "fir-facebookexample",
+    "storage_bucket": "fir-facebookexample.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:368730474149:android:b24d5654161c8ccb",
+        "android_client_info": {
+          "package_name": "com.example.kartheek.firebasefacebookexample"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "368730474149-fiouugspmj60cob9qb7b4r55kf8p17v9.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.kartheek.firebasefacebookexample",
+            "certificate_hash": "3a19a01ae6711348b9aa5cc5dc66dc7915100a6b"
+          }
+        },
+        {
+          "client_id": "368730474149-nrgoqvjnloki8shkoijopr561heav51t.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDtO497xE5BlwfhBSxwPpmBoF2Ll0vysH8"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "368730474149-nrgoqvjnloki8shkoijopr561heav51t.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
